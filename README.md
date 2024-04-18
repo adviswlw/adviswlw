@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">Hi! I'm Ada, a student 👨‍💻 c 2020 🤓</h1>
+<h1 align="center">Hi! I'm Ada, a student 👨‍💻 c 2019 🤓</h1>
 
 ###
 
