@@ -23,15 +23,15 @@
 ## <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> - ⚡I like cats!!!😸  </h3>
 
 <div align="center">
-  <img height="300" width="600" src="https://github.com/adviswlw/readme/assets/76786845/68e38de5-8103-497e-97b0-cbfbec4b7f3d.gif"  />
+  <img height="300" width="600" src="https://github.com/adviswlw/adviswlw/assets/76786845/68e38de5-8103-497e-97b0-cbfbec4b7f3d.gif"  />
 </div>
 
 ###
 
-## - ⚡ I'm a judoka! judo by kms~
+## <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> - ⚡ I'm a judoka! judo by kms~  </h3>
  
 <div align="center">
-  <img height="300" width="600" src="https://github.com/adviswlw/readme/assets/76786845/dfff0869-0bc2-42f5-b95b-e96d7c2349d3.gif"  />
+  <img height="300" width="600" src="https://github.com/adviswlw/adviswlw/assets/76786845/dfff0869-0bc2-42f5-b95b-e96d7c2349d3.gif"  />
 </div>
 
 ###
