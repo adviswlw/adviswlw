@@ -17,7 +17,7 @@
 
 ###
 <!--<img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" />-->
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> 
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" /> 
 
 ###
 
@@ -26,8 +26,6 @@
 ###
 
  <!--<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2-->
-
-###
 
 <h3 align="left">⚡ Fun fact: </h3>
 
