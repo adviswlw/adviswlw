@@ -27,7 +27,7 @@
 
  <!--<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2-->
 
-<h3 align="left">⚡ Fun fact: </h3>
+ <!--<h3 align="left">⚡ Fun fact: </h3>
 
 ###
 
@@ -41,7 +41,7 @@
  
 <div align="center">
   <img height="200" width="500" src="https://github.com/adviswlw/adviswlw/assets/76786845/46635d8b-7167-4ab9-a9dc-935e1e6ed4d5.gif"  />
-</div>
+</div>-->
 
 
 ###
