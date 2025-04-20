@@ -1,6 +1,5 @@
 <br clear="both">
-<h3 align="left">  <img src="https://github.com/adviswlw/adviswlw/assets/76786845/1861d69a-d839-44c2-90b7-f32dabbf7804" width="30" height="30"/> </h3>
-<!--<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">-->
+<h3 align="left">  <!--<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">-->
 <div align="center">
   <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="222"> 
 </div>
